@@ -24,8 +24,8 @@ The script relies on a `while` loop combined with conditional statements (`if/el
 
 To run this script, you need to have **Python 3** installed on your computer.
 
-1. Save the Python script file (e.g., `main.py`) in your project folder.
+1. Save the Python script file (e.g., `script.py`) in your project folder.
 2. Open your terminal or command prompt.
 3. Run the script using the following command:
    ```bash
-   python main.py
+   python script.py
